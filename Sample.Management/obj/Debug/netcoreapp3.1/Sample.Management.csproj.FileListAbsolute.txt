@@ -1,0 +1,13 @@
+C:\Users\GANIDU\source\repos\Sample.Management\obj\Debug\netcoreapp3.1\Sample.Management.csproj.AssemblyReference.cache
+C:\Users\GANIDU\source\repos\Sample.Management\obj\Debug\netcoreapp3.1\Sample.Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GANIDU\source\repos\Sample.Management\obj\Debug\netcoreapp3.1\Sample.Management.AssemblyInfoInputs.cache
+C:\Users\GANIDU\source\repos\Sample.Management\obj\Debug\netcoreapp3.1\Sample.Management.AssemblyInfo.cs
+C:\Users\GANIDU\source\repos\Sample.Management\obj\Debug\netcoreapp3.1\Sample.Management.csproj.CoreCompileInputs.cache
+C:\Users\GANIDU\source\repos\Sample.Management\bin\Debug\netcoreapp3.1\Sample.Management.deps.json
+C:\Users\GANIDU\source\repos\Sample.Management\bin\Debug\netcoreapp3.1\Sample.Management.runtimeconfig.json
+C:\Users\GANIDU\source\repos\Sample.Management\bin\Debug\netcoreapp3.1\Sample.Management.runtimeconfig.dev.json
+C:\Users\GANIDU\source\repos\Sample.Management\bin\Debug\netcoreapp3.1\Sample.Management.dll
+C:\Users\GANIDU\source\repos\Sample.Management\bin\Debug\netcoreapp3.1\Sample.Management.pdb
+C:\Users\GANIDU\source\repos\Sample.Management\obj\Debug\netcoreapp3.1\Sample.Management.dll
+C:\Users\GANIDU\source\repos\Sample.Management\obj\Debug\netcoreapp3.1\Sample.Management.pdb
+C:\Users\GANIDU\source\repos\Sample.Management\obj\Debug\netcoreapp3.1\Sample.Management.genruntimeconfig.cache
